@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xmiwon
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m located in Gothenburg, Sweden ...
+- 📫 How to reach me null
 
 <!---
 xmiwon/xmiwon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
