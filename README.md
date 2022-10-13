@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xmiwon
+- 👋 Hi, I’m Michael Wong
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
 - 🏡 I’m located in Gothenburg, Sweden ...
